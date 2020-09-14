@@ -1,0 +1,19 @@
+.navbar {
+    border-radius: 0;
+}
+
+.thumbnail img{
+	width: 100%;
+}
+
+#fullImg{
+	padding: 0;
+}
+
+.thumbnail .caption-full{
+	padding: 10px;
+}
+
+.del-form{
+	display: inline;
+}
